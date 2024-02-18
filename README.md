@@ -3,6 +3,8 @@
 > Background Assessment And Screening Tools For Simplified Markers
 ---
 
+## [Click this to download BASTools.zip](https://gitee.com/bmstc/bas-tools/releases/download/V1.0.0/BASTools.zip)
+
 ## Description
 
 The BAS-Tools consists of two functional modules, respectively Simplified Marker Design and Background Assessment. The entry data format of the tools is consistent with the Plink software using the ped and map format files, where ped files are used to store genotyping data and map files are used to store marker information data. In addition, the result data generated after the analysis are stored in the output directory of the same level as the software.
